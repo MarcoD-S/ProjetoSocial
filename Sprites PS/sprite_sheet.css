@@ -1,0 +1,99 @@
+.sprite-backperson {
+     background: url(sprite_sheet.png);
+     display: inline-block;
+     height: 256px;
+     width: 256px;
+     background-position: -0px -0px;
+ }
+ .sprite-backperson-walk {
+     background: url(sprite_sheet.png);
+     display: inline-block;
+     height: 256px;
+     width: 256px;
+     background-position: -256px -0px;
+ }
+ .sprite-backperson-walk2 {
+     background: url(sprite_sheet.png);
+     display: inline-block;
+     height: 256px;
+     width: 256px;
+     background-position: -512px -0px;
+ }
+ .sprite-frontperson {
+     background: url(sprite_sheet.png);
+     display: inline-block;
+     height: 256px;
+     width: 256px;
+     background-position: -768px -0px;
+ }
+ .sprite-frontperson-walk {
+     background: url(sprite_sheet.png);
+     display: inline-block;
+     height: 256px;
+     width: 256px;
+     background-position: -0px -256px;
+ }
+ .sprite-frontperson-walk2 {
+     background: url(sprite_sheet.png);
+     display: inline-block;
+     height: 256px;
+     width: 256px;
+     background-position: -256px -256px;
+ }
+ .sprite-lefttperson-walk {
+     background: url(sprite_sheet.png);
+     display: inline-block;
+     height: 256px;
+     width: 256px;
+     background-position: -512px -256px;
+ }
+ .sprite-lefttperson-walk2 {
+     background: url(sprite_sheet.png);
+     display: inline-block;
+     height: 256px;
+     width: 256px;
+     background-position: -768px -256px;
+ }
+ .sprite-lefttperson-walk4 {
+     background: url(sprite_sheet.png);
+     display: inline-block;
+     height: 256px;
+     width: 256px;
+     background-position: -0px -512px;
+ }
+ .sprite-lefttperson-walk3 {
+     background: url(sprite_sheet.png);
+     display: inline-block;
+     height: 256px;
+     width: 256px;
+     background-position: -256px -512px;
+ }
+ .sprite-rigthtperson-walk {
+     background: url(sprite_sheet.png);
+     display: inline-block;
+     height: 256px;
+     width: 256px;
+     background-position: -512px -512px;
+ }
+ .sprite-rigthtperson-walk2 {
+     background: url(sprite_sheet.png);
+     display: inline-block;
+     height: 256px;
+     width: 256px;
+     background-position: -768px -512px;
+ }
+ .sprite-rigthtperson-walk3 {
+     background: url(sprite_sheet.png);
+     display: inline-block;
+     height: 256px;
+     width: 256px;
+     background-position: -0px -768px;
+ }
+ .sprite-rigthtperson-walk4 {
+     background: url(sprite_sheet.png);
+     display: inline-block;
+     height: 256px;
+     width: 256px;
+     background-position: -256px -768px;
+ }
+ 

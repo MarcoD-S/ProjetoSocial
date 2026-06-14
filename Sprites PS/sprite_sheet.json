@@ -1,0 +1,107 @@
+{
+  "sprites": [
+    {
+      "fileName": "backperson.png",
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "fileName": "backperson-walk.png",
+      "width": 256,
+      "height": 256,
+      "x": 256,
+      "y": 0
+    },
+    {
+      "fileName": "backperson-walk2.png",
+      "width": 256,
+      "height": 256,
+      "x": 512,
+      "y": 0
+    },
+    {
+      "fileName": "frontperson.png",
+      "width": 256,
+      "height": 256,
+      "x": 768,
+      "y": 0
+    },
+    {
+      "fileName": "frontperson-walk.png",
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 256
+    },
+    {
+      "fileName": "frontperson-walk2.png",
+      "width": 256,
+      "height": 256,
+      "x": 256,
+      "y": 256
+    },
+    {
+      "fileName": "lefttperson-walk.png",
+      "width": 256,
+      "height": 256,
+      "x": 512,
+      "y": 256
+    },
+    {
+      "fileName": "lefttperson-walk2.png",
+      "width": 256,
+      "height": 256,
+      "x": 768,
+      "y": 256
+    },
+    {
+      "fileName": "lefttperson-walk4.png",
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 512
+    },
+    {
+      "fileName": "lefttperson-walk3.png",
+      "width": 256,
+      "height": 256,
+      "x": 256,
+      "y": 512
+    },
+    {
+      "fileName": "rigthtperson-walk.png",
+      "width": 256,
+      "height": 256,
+      "x": 512,
+      "y": 512
+    },
+    {
+      "fileName": "rigthtperson-walk2.png",
+      "width": 256,
+      "height": 256,
+      "x": 768,
+      "y": 512
+    },
+    {
+      "fileName": "rigthtperson-walk3.png",
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 768
+    },
+    {
+      "fileName": "rigthtperson-walk4.png",
+      "width": 256,
+      "height": 256,
+      "x": 256,
+      "y": 768
+    }
+  ],
+  "packMode": "grid",
+  "padding": 0,
+  "backgroundColor": "rgba(0, 0, 0, 0)",
+  "spriteSheetWidth": 1024,
+  "spriteSheetHeight": 1024
+}
